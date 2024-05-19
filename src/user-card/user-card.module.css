@@ -1,0 +1,19 @@
+.user-card {
+  border: 1px solid wheat;
+  border-radius: 10px;
+  min-height: 100px;
+  display: flex;
+  background-color: red;
+  background-clip: text;
+
+
+  /*&__logo {*/
+  /*  aspect-ratio: 1/1;*/
+  /*  width: 50px;*/
+  /*  background-color: black;*/
+  /*}*/
+
+  /*&__name {*/
+  /*  font-weight: bold;*/
+  /*}*/
+}
